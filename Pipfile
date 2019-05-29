@@ -12,7 +12,6 @@ autopep8 = "*"
 coveralls = "*"
 
 [packages]
-testing = {editable = true,path = "."}
 numpy = "*"
 
 [requires]
