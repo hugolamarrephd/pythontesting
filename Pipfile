@@ -9,6 +9,7 @@ pytest-cov = "*"
 flake8 = "*"
 pylint = "*"
 autopep8 = "*"
+coveralls = "*"
 
 [packages]
 testing = {editable = true,path = "."}
