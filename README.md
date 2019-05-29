@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/hugolamarrephd/pythontesting.svg?branch=master)](https://travis-ci.org/hugolamarrephd/pythontesting)
+[![Coverage Status](https://coveralls.io/repos/github/hugolamarrephd/pythontesting/badge.svg)](https://coveralls.io/github/hugolamarrephd/pythontesting)
